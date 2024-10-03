@@ -11,11 +11,23 @@ Dimecres 2 d'Octubre de 2024
 Per actualitzar els canvis fets a l'espai de treball, l'ordinador, fem servir:
 
 ```bash
-git add
+git add .
 ```
-git add 
-git commit (Per guardar els canvis fets)
 
-git pull (Per extreure la versió d'un repositori)
+Per guardar els canvis fets fem serir:
 
-git push (Per actualitzar els canvis d'un repositori local al remot)
+```bash
+git commit
+```
+
+Per extreure la versió d'un repositori remot a un local fem servir:
+
+```bash
+git pull
+```
+
+Per actualitzar els canvis d'un repositori local al remot fem servir:
+
+```bash
+git push
+```
