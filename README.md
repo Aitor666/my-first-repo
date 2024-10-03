@@ -6,7 +6,7 @@ Aitor
 
 Dimecres 2 d'Octubre de 2024
 
-##Command Cheat Sheet
+# Command Cheat Sheet
 
 git add (Per actualitzar els canvis fets a l'espai de treball, l'ordinador)
 git commit (Per guardar els canvis fets)
