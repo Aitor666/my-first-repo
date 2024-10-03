@@ -8,11 +8,12 @@ Dimecres 2 d'Octubre de 2024
 
 # Command Cheat Sheet
 
+Per actualitzar els canvis fets a l'espai de treball, l'ordinador, fem servir:
+
 ```bash
 git add
 ```
-git add (Per actualitzar els canvis fets a l'espai de treball, l'ordinador)
-
+git add 
 git commit (Per guardar els canvis fets)
 
 git pull (Per extreure la versió d'un repositori)
