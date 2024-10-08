@@ -17,7 +17,7 @@ git add .
 Per guardar els canvis fets fem serir:
 
 ```bash
-git commit
+git commit -m "Missatge"
 ```
 
 Per extreure la versió d'un repositori remot a un local fem servir:
